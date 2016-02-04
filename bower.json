@@ -1,0 +1,17 @@
+{
+  "name": "imousmoutis",
+  "version": "0.0.1",
+  "authors": [
+    "Ioannis Mousmoutis <imousmoutis@gmail.com>"
+  ],
+  "description": "null",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "bootstrap-css-only": "^3.3.6"
+  }
+}
